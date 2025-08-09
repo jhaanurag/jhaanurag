@@ -1,7 +1,7 @@
 ## Hi!
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 ### about me  
-- breaking computers since 2014 (fixing them is optional)  
+- breaking computers since 2014 (feature, not a bug)  
 - loves building useless things  
 - probably buiding b2b gpt wrapper saas
 
