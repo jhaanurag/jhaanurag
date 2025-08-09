@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi!
+![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
+### 3 bullet points about me (save your time)
+- breaking computer since 2k14
+- generalist
+- b2b saas enthusiast
+- 
 <!--
 **jhaanurag/jhaanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
