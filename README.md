@@ -1,4 +1,4 @@
-## Hi!
+## hi!
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 ### about me  
 - breaking computers since 2014 (feature, not a bug)  
