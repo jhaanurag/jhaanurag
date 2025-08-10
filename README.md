@@ -2,7 +2,7 @@
 ### about me  
 - breaking computers since 2014
 - loves building useless things  
-- probably buiding b2b gpt wrapper saas
+- probably buiding b2b gpt wrapper saas or tweaking nv configs
 
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 <!--
