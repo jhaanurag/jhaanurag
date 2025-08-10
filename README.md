@@ -1,10 +1,10 @@
-![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 ## hi!
 ### about me  
 - breaking computers since 2014
 - loves building useless things  
 - probably buiding b2b gpt wrapper saas
 
+![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 <!--
 **jhaanurag/jhaanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
