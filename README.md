@@ -1,5 +1,5 @@
-## hi!
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
+## hi!
 ### about me  
 - breaking computers since 2014
 - loves building useless things  
