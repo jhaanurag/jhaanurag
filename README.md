@@ -1,6 +1,8 @@
 ## hi!
 
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
+
+### i like math, computers & design
 <!--
 **jhaanurag/jhaanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
