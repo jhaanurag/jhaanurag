@@ -1,6 +1,6 @@
 ## hi!
-i'm a pre-gpt coder in a post-gpt world
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
+i'm a pre-gpt coder in a post-gpt world
 
 <!--
 ### i like math, computers & design
