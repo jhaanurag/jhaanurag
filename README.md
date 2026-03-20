@@ -2,7 +2,8 @@
 
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 
-i like to build
+_i like to build_
+
 ---
 
 ## 🛠 Major Projects
