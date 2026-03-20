@@ -13,7 +13,7 @@ _i like to build_
 - Designed a context buffer for cross-node data injection, reducing context fragmentation.
 - Integrated LiteLLM for multi-model routing and load balancing.
 
-### [Multi-Strategy Options Trading Bot](https://github.com/jhaanurag)
+### [Multi-Strategy Options Trading Bot (WIP)](https://github.com/jhaanurag)
 *Built with Python, Fyers API*
 - Architected a multi-strategy NIFTY 50 trading system with concurrent live execution.
 - Implemented modular alpha, execution, and risk layers with dynamic SL/TSL.
