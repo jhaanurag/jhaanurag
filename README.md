@@ -37,7 +37,7 @@ _i like to build_
 
 ---
 
-## 🚀 Selected Minor Projects
+## 🚀 Selected Additional Projects
 - **NanoBanana PNG:** FastAPI/Gemini API tool to generate transparent PNGs via AI chroma keying.
 - **Custom Tone Mapping Pipeline:** Kotlin/Android SDK app for manual Camera2API control and Bézier tone curves.
 - **Perplexity-Clone CLI:** Python/Gemini tool for live web extraction and structured markdown summaries.
