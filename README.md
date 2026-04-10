@@ -1,4 +1,3 @@
-# Anurag Jha
 
 ![Profile views](https://counter.kuber.studio/jhaanurag/hacker/count.svg)
 
