@@ -6,7 +6,7 @@ _i like to build_
 
 ---
 
-## 🛠 Major Projects
+## Projects
 ### [Infinite Canvas LLM Chat](https://canvasllm.vercel.app/)
 *Built with React, Convex, LiteLLM*
 - Built an infinite-canvas chat for non-linear LLM workflows with branching and structured exploration.
@@ -37,7 +37,7 @@ _i like to build_
 
 ---
 
-## 🚀 Selected Additional Projects
+## Selected Additional Projects
 - **NanoBanana PNG:** FastAPI/Gemini API tool to generate transparent PNGs via AI chroma keying.
 - **Custom Tone Mapping Pipeline:** Kotlin/Android SDK app for manual Camera2API control and Bézier tone curves.
 - **Perplexity-Clone CLI:** Python/Gemini tool for live web extraction and structured markdown summaries.
